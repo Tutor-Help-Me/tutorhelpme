@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Tutor Help Me',
-  description: 'Page description',
+  title: 'Tutor Help Me - Personalized Online Tutoring',
+  description: 'Get expert 1:1 tuition, homework help, and exam preparation for Maths, English, Science, and 11 Plus.',
 }
 
 import Hero from '@/components/hero'
