@@ -105,7 +105,7 @@ export default function Footer() {
               </div>
 
               {/* 4th block */}
-              <div className="text-sm">
+              {/* <div className="text-sm"> */}
                 {/* <h6 className="text-gray-200 font-medium mb-1">Company</h6> */}
                 {/* <ul>
                   <li className="mb-1">
@@ -124,14 +124,11 @@ export default function Footer() {
                     <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
                   </li>
               </ul> */}
-              <div className="text-sm">
-                <Link
-                  href="/"
-                  className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3 px-4 py-2 rounded transition duration-150 ease-in-out"
-                >
-                  Book a free assessment
-                </Link>
+              <div className="text-sm text-center">
+              <div data-aos="fade-up" data-aos-delay="200" className='bounce-animation'>
+                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">Book a free assessment</a>
               </div>
+              {/* </div> */}
               </div>
 
  
