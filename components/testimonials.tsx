@@ -31,7 +31,7 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-lg text-gray-400 grow">— Tutoring really helped my daughter safely her maths GCSE and helped her thoroughly understand what was needed for the exam in order to prep her for the real thing without rushing/stressing her out. I recommend this tutoring since it ensures that you can pass even if you think you can’t.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Bushra Begum</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="https://goo.gl/maps/i9rYDTXQCQwfywxM7">Google Review</a>
+                <cite className="text-gray-200 not-italic">Bushra Begum</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="https://goo.gl/maps/i9rYDTXQCQwfywxM7" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">Google Review</a>
               </div>
             </div>
 
@@ -47,7 +47,7 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-lg text-gray-400 grow">— We are very happy with their services. They always remind us before class and even if we are not online message again to join the class. Also my son and daughter are improving very well in studies with their help.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Sumara Riaz</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="https://goo.gl/maps/DdoZSH5LhQwQrRqu9">Google Review</a>
+                <cite className="text-gray-200 not-italic">Sumara Riaz</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="https://goo.gl/maps/DdoZSH5LhQwQrRqu9" target="_blank" rel="noopener noreferrer">Google Review</a>
               </div>
             </div>
 
@@ -63,7 +63,7 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-lg text-gray-400 grow">— The tutor has helped my child excel and achieve in Mathematics. My child has been visiting the tuition centre for a year now and has made swift progress. The tutor provides weekly feedback and issues homework - plenty to keep my child busy. The tutor is innovative and doesn't rely on one teaching method. I would highly recommend tutor help me to anyone wanting additional support for their child in Mathematics.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Asia Malik</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="https://goo.gl/maps/JriQsRGyfdfb8bzDA">Google Review</a>
+                <cite className="text-gray-200 not-italic">Asia Malik</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="https://goo.gl/maps/JriQsRGyfdfb8bzDA" target="_blank" rel="noopener noreferrer">Google Review</a>
               </div>
             </div>
 
