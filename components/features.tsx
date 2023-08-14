@@ -2,15 +2,16 @@ import React from "react";
 
 export default function Features() {
   return (
+
     <section className="h-screen flex items-center">
       <div className="max-w-8xl px-5 py-5 w-full flex-col justify-center">
 
         {/* Section header */}
         <div className="text-center w-full flex justify-center">
-          <h1 className="h1 my-2 font-medium">We help you succeed.</h1>
+          <h1 className="h1 mb-2 font-medium">We help you succeed.</h1>
         </div>
 
-        <div className="justify-items-stretch pt-5 text-white grid grid-rows-2 grid-flow-col gap-5">
+        <div className="justify-items-stretch text-white grid grid-rows-2 grid-flow-col gap-5">
 
           {/* <div className="h3 rounded-2xl bg-orange-500 py-20 text-center">Primary</div> */}
           <div className="group relative overflow-hidden bg-white px-10 pt-10 pb-10 shadow-xl ring-1 ring-gray-900/5 transition-primary duration-300 hover:-translate-y-1 hover:shadow-2xl">
@@ -74,7 +75,7 @@ export default function Features() {
               </div>
               <div className="pt-5 text-base font-semibold leading-7">
                 <button type="button"
-                  className="w-full transition-primary duration-300 ease-in-out bg-white hover:bg-orange-300 hover:text-slate-900 font-semibold shadow-[0_4px_9px_-4px_#000000] hover:shadow-[0_6px_12px_-3px_#000000] group-hover:border-white border-2 border-orange-500 px-10 py-2 text-xs font-medium uppercase leading-normal text-orange-500">
+                  className="w-full transition-primary duration-300 ease-in-out bg-white hover:bg-orange-200 hover:text-slate-900 font-semibold shadow-[0_4px_9px_-4px_#000000] hover:shadow-[0_6px_12px_-3px_#000000] group-hover:border-white border-2 border-orange-500 px-10 py-2 text-xs font-medium uppercase leading-normal text-orange-500">
                   Learn more -->
                 </button>
               </div>
@@ -123,7 +124,7 @@ export default function Features() {
                   <div className="relative flex justify-around">
                     <div className="flex items-end">
                       <span className="block text-3xl text-fuchsia-600 font-semibold duration-300 group-hover:text-slate-900">£</span>
-                      <span className="text-8xl text-gray-800 font-semibold leading-0 duration-300 group-hover:text-white">12</span>
+                      <span className="text-8xl text-slate-900 font-semibold leading-0 duration-300 group-hover:text-white">12</span>
                       {/* <div className="pb-0">
                         <span className="block text-xl text-fuchsia-600 font-bold">Off</span>
                       </div> */}
@@ -134,36 +135,36 @@ export default function Features() {
                   <div className="list-inside pb-4 flex justify-around">
                     <div className="flex">
                       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
-                        stroke="#c026d3" className="mr-3 h-11 w-7 duration-300 group-hover:stroke-slate-900">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" /></svg><p className="">Maths</p>
+                        stroke="#c026d3" className="mr-3 h-11 w-7 transition-primary duration-300 group-hover:stroke-slate-900">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" /></svg><p className="transition-primary duration-300 ease-in-out text-slate-900 font-medium group-hover:text-white">Maths</p>
                     </div>
                     <div className="flex">
                       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
-                        stroke="#c026d3" className="mr-3 h-11 w-7 duration-300 group-hover:stroke-slate-900">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" /></svg><p className="">English</p>
+                        stroke="#c026d3" className="mr-3 h-11 w-7 transition-primary duration-300 group-hover:stroke-slate-900">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" /></svg><p className="transition-primary duration-300 ease-in-out text-slate-900 font-medium group-hover:text-white">English</p>
                     </div>
                     <div className="flex">
                       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2"
-                        stroke="#c026d3" className="mr-3 h-11 w-7 duration-300 group-hover:stroke-slate-900">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" /></svg><p className="">Science</p>
+                        stroke="#c026d3" className="mr-3 h-11 w-7 transition-primary duration-300 group-hover:stroke-slate-900">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" /></svg><p className="transition-primary duration-300 ease-in-out text-slate-900 font-medium group-hover:text-white">Science</p>
                     </div>
                   </div>
                 </div>
                 <div className="flex items-center justify-center space-x-4 text-lg text-center text-slate-900">
-                  <span className="duration-300 group-hover:text-white">Call us at</span>
+                  <span className="transition-primary duration-300 ease-in-out group-hover:text-white">Call us at</span>
                   <a href="tel:+441282932452" className="flex space-x-2 items-center text-purple-600 ">
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="#c026d3" className="w-6 duration-300 group-hover:fill-black" viewBox="0 0 16 16">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="#c026d3" className="w-6 transition-primary duration-300 ease-in-out group-hover:fill-black" viewBox="0 0 16 16">
                       <path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.568 17.568 0 0 0 4.168 6.608 17.569 17.569 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.678.678 0 0 0-.58-.122l-2.19.547a1.745 1.745 0 0 1-1.657-.459L5.482 8.062a1.745 1.745 0 0 1-.46-1.657l.548-2.19a.678.678 0 0 0-.122-.58L3.654 1.328zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z" />
                     </svg>
-                    <span className="duration-300 group-hover:text-black font-semibold text-fuchsia-600">+44 1282 932452</span>
+                    <span className="transition-primary duration-300 ease-in-out group-hover:text-black font-semibold text-fuchsia-600">+44 1282 932452</span>
                   </a>
-                  <span className="duration-300 group-hover:text-white">or</span>
+                  <span className="transition-primary duration-300 ease-in-out group-hover:text-white">or</span>
                 </div>
               </div>
               <div className="pt-5 text-base font-semibold leading-7">
                 <button type="button"
                   className="w-full transition-primary duration-300 ease-in-out bg-white hover:bg-fuchsia-300 hover:text-slate-900 font-semibold shadow-[0_4px_9px_-4px_#000000] hover:shadow-[0_6px_12px_-3px_#000000] group-hover:border-white border-2 border-fuchsia-600 px-10 py-2 text-xs font-medium uppercase leading-normal text-fuchsia-600">
-                  Book a free assessment -->
+                  Learn more -->
                 </button>
               </div>
             </div>
