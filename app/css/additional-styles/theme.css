@@ -7,7 +7,7 @@
     @apply ring-0;
 }
 
-./* Container for flip animation */
+/* Container for flip animation */
 .flip-container {
   perspective: 1000px;
   display: inline-block;

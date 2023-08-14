@@ -5,8 +5,8 @@ import { useEffect } from 'react'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
-import PageIllustration from '@/components/page-illustration'
-import Footer from '@/components/ui/footer'
+// import PageIllustration from '@/components/page-illustration'
+// import Footer from '@/components/ui/footer'
 
 export default function DefaultLayout({
   children,
@@ -25,15 +25,15 @@ export default function DefaultLayout({
 
   return (
     <>
-      <main className="grow">
+      <main className="grow" style={{ width: '100vw', height: '100vh', margin: 0, padding: 0, backgroundColor: 'white'}}>
 
-        <PageIllustration />
+        {/* <PageIllustration /> */}
 
         {children}
 
       </main>
 
-      <Footer />
+      {/* <Footer /> */}
     </>
   )
 }
