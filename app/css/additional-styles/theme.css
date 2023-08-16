@@ -60,6 +60,14 @@
   transform-style: preserve-3d;
 }
   
+@keyframes flashing {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.5;
+    }
+  }
 
 /* hero.module.css */
 @keyframes bounce {

@@ -15,7 +15,7 @@ export default function Features() {
 
           {/* <div className="h3 rounded-2xl bg-orange-500 py-20 text-center">Primary</div> */}
           <div className="group relative overflow-hidden bg-white px-10 pt-10 pb-10 shadow-xl ring-1 ring-gray-900/5 transition-primary duration-300 hover:-translate-y-1 hover:shadow-2xl">
-            <span className="absolute top-10 z-0 h-20 w-20 rounded-full bg-blue-700 transition-primary duration-[450ms] group-hover:scale-[15] shadow-[0_4px_9px_-4px_#000000] hover:shadow-[0_6px_12px_-3px_#000000]"></span>
+            <span className="absolute justify-center top-10 z-0 h-20 w-20 rounded-full bg-blue-700 transition-primary duration-[450ms] group-hover:scale-[15] shadow-[0_4px_9px_-4px_#000000] hover:shadow-[0_6px_12px_-3px_#000000]"></span>
             <div className="relative">
               <a href="/" className="shadow-[0_4px_9px_-4px_#000000] hover:shadow-[0_6px_12px_-3px_#000000] text-4xl grid h-20 w-20 place-items-center rounded-full bg-blue-700 transition-primary duration-300 group-hover:bg-white group-hover:text-blue-700 ease-in-out">
                 P
