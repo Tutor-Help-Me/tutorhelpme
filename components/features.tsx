@@ -30,7 +30,7 @@ export default function Features() {
               <div className="pt-5 text-base font-semibold leading-7">
                 <button type="button"
                   className="w-full transition-primary duration-300 ease-in-out bg-white hover:bg-blue-300 hover:text-slate-900 font-semibold shadow-[0_4px_9px_-4px_#000000] hover:shadow-[0_6px_12px_-3px_#000000] group-hover:border-white border-2 border-blue-700 px-10 py-2 text-xs font-medium uppercase leading-normal text-blue-700">
-                  Learn more -->
+                  Learn more
                 </button>
               </div>
             </div>
@@ -53,7 +53,7 @@ export default function Features() {
               <div className="pt-5 text-base font-semibold leading-7">
                 <button type="button"
                   className="w-full transition-primary duration-300 ease-in-out bg-white hover:bg-green-300 hover:text-slate-900 font-semibold shadow-[0_4px_9px_-4px_#000000] hover:shadow-[0_6px_12px_-3px_#000000] group-hover:border-white border-2 border-green-600 px-10 py-2 text-xs font-medium uppercase leading-normal text-green-600">
-                  Learn more -->
+                  Learn more
                 </button>
               </div>
             </div>
@@ -76,7 +76,7 @@ export default function Features() {
               <div className="pt-5 text-base font-semibold leading-7">
                 <button type="button"
                   className="w-full transition-primary duration-300 ease-in-out bg-white hover:bg-orange-200 hover:text-slate-900 font-semibold shadow-[0_4px_9px_-4px_#000000] hover:shadow-[0_6px_12px_-3px_#000000] group-hover:border-white border-2 border-orange-500 px-10 py-2 text-xs font-medium uppercase leading-normal text-orange-500">
-                  Learn more -->
+                  Learn more
                 </button>
               </div>
             </div>
@@ -99,7 +99,7 @@ export default function Features() {
               <div className="pt-5 text-base font-semibold leading-7">
                 <button type="button"
                   className="w-full transition-primary duration-300 ease-in-out bg-white hover:bg-purple-300 hover:text-slate-900 font-semibold shadow-[0_4px_9px_-4px_#000000] hover:shadow-[0_6px_12px_-3px_#000000] group-hover:border-white border-2 border-purple-600 px-10 py-2 text-xs font-medium uppercase leading-normal text-purple-600">
-                  Learn more -->
+                  Learn more
                 </button>
               </div>
             </div>
@@ -164,7 +164,7 @@ export default function Features() {
               <div className="pt-5 text-base font-semibold leading-7">
                 <button type="button"
                   className="w-full transition-primary duration-300 ease-in-out bg-white hover:bg-fuchsia-300 hover:text-slate-900 font-semibold shadow-[0_4px_9px_-4px_#000000] hover:shadow-[0_6px_12px_-3px_#000000] group-hover:border-white border-2 border-fuchsia-600 px-10 py-2 text-xs font-medium uppercase leading-normal text-fuchsia-600">
-                  Learn more -->
+                  Learn more
                 </button>
               </div>
             </div>

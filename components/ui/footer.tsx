@@ -80,7 +80,7 @@ export default function Footer() {
         {/* <li> */}
         {/* <button type="button"
                   className="mr-5 transition-primary duration-300 ease-in-out bg-white hover:bg-orange-200 hover:text-slate-900 font-bold shadow-[0_4px_9px_-4px_#000000] hover:shadow-[0_6px_12px_-3px_#000000] group-hover:border-white border-2 border-orange-500 px-10 py-2 text-sm uppercase leading-normal text-orange-500">
-                  Chat with us -->
+                  Chat with us
                 </button> */}
         {/* <Link
                   href="/"
@@ -91,7 +91,7 @@ export default function Footer() {
         {/* </li> */}
         {/* <button type="button"
                 className="transition-primary duration-300 ease-in-out bg-blue-700 hover:bg-blue-300 hover:text-slate-900 font-{450} shadow-[0_4px_9px_-4px_#000000] hover:shadow-[0_6px_12px_-3px_#000000] group-hover:border-white border-2 border-blue-700 px-10 py-2 text-sm uppercase leading-normal text-white">
-                  Book a free assessment -->
+                  Book a free assessment
               </button> */}
         {/* <li>
                 <Link href="/" className="btn-sm text-white bg-blue-700 hover:bg-purple-700 ml-3">
